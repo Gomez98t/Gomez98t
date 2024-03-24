@@ -12,7 +12,6 @@
 🌟 ¿Sabías qué?: Me consideran alguien metódico, pero siempre encuentro formas innovadoras de resolver problemas.
 
 ## :globe_with_meridians: Me around the web:
--------------------
 &emsp;
 <a href="https://www.linkedin.com/in/dar%C3%ADo-esteban-g%C3%B3mez-ord%C3%B3%C3%B1ez-027487240">
     ![Linkedin: gomez98t](https://img.shields.io/badge/-gomez98t-blue?style=flat-square&logo=Linkedin&logoColor=white)</a>
@@ -22,7 +21,6 @@
     ![GitHub: gomez98t](https://img.shields.io/github/followers/berkeli?label=follow&style=social)</a>
 <a href="https://discord.com/channels/@gomez98t">
     ![Discord: gomez98t](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)</a>
-
 
 ## 🛠️ My Skills
 
