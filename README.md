@@ -2,7 +2,7 @@
   <img src="https://github.com/Gomez98t/Gomez98t/assets/99506191/ae9795ca-e48d-4032-8c0c-1448b1d6cd31 height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Gomez98t<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">GomezDevX<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About ME! 😎</h1>  
 🚀 Navegando en: Explorando el vasto mundo de la ingeniería de sistemas.<br>
