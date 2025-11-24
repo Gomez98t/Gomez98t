@@ -16,7 +16,7 @@
 ## ◆ What I Do
 
 ```yaml
-Full-Stack Development:
+Stack Development:
   - Backend & Frontend con Python, Java, JavaScript, TypeScript, Node.js
   - Arquitecturas escalables y APIs REST
   
