@@ -1,4 +1,5 @@
-<img src="https://github.com/Gomez98t/Gomez98t/assets/99506191/ae9795ca-e48d-4032-8c0c-1448b1d6cd31 height="230"/>
+<p align="center">
+  <img src="https://github.com/Gomez98t/Gomez98t/assets/99506191/ae9795ca-e48d-4032-8c0c-1448b1d6cd31 height="230"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Gomez98t">🔶 GomezDevX — Systems Engineer & AI Developer<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
