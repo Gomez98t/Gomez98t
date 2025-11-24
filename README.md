@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://github.com/Gomez98t/Gomez98t/assets/99506191/ae9795ca-e48d-4032-8c0c-1448b1d6cd31 height="230"/>
+  <img src="https://github.com/user-attachments/assets/75f58ed6-5602-4b75-a22a-1d1aceb05c1a"/>
 </p>
+
 
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Gomez98t">🔶 GomezDevX — Systems Engineer<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
