@@ -4,7 +4,7 @@
 </p>
 
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Gomez98t">🔶 GomezDevX — Systems Engineer & AI Developer<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Gomez98t">🔶 GomezDevX — Systems Engineer<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
 > *"The future is not built — it's coded."*
